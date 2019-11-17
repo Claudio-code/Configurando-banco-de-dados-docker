@@ -60,5 +60,4 @@ Guia de instalacao - [Docker](https://docs.docker.com/install/) - **https://docs
   docker start redisDb
 ```
 
-### :smiley: Pronto agora você tem um banco relacional um banco não relacional e um banco de cache 
-Agora partiu codar.
+### :smiley: Pronto agora você tem um banco relacional um banco não relacional e um banco de cache Agora partiu codar.
