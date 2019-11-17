@@ -38,6 +38,7 @@ Guia de instalacao - [Docker](https://docs.docker.com/install/) - **https://docs
 ```
 - pronto agora o banco pode ser usado por sua aplicação. 
 
+### MongoDb
 
 4. Vamos instalar o mongoDb.
 
@@ -49,6 +50,8 @@ Guia de instalacao - [Docker](https://docs.docker.com/install/) - **https://docs
 ```sh
   docker start mongoDb
 ```
+
+### Redis
 
 5. Agora vamos instalar o redis 
 ```sh
