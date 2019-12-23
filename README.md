@@ -1,4 +1,4 @@
-# :whale: Setting Database In Docker
+# :whale: Configurando o banco de dados no docker
 
 ## Objetivo
 O objetivo aqui é mostrar como configurar bancos de dados relacionais e não relacionais usando o docker, montaremos um container com o postgres de banco relacional e o mongoDb para ter um NoSql e configuraremos um banco de cache de chave e valor e para isso usaremos o Redis.
